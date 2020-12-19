@@ -29,5 +29,13 @@ There are 4 python files,
 7. Please enter the path to the downloaded dataset on the system.
 8. 'Confusion_matrix.png' and 'accuracy_test.csv' files are created and the evaluation metrics will be printed on the console.
 
+### References:
+
+[1] Jerome Gideon S, Anurag Kandulna, Aron Abhishek Kujur, Diana A, Kumudha Raimond, “Handwritten Signature Forgery Detection using Convolutional Neural networks”, 8th International Conference on Advances in Computing and Communication (ICACC-2018), 2018, retrieved from, https://www.sciencedirect.com/science/article/pii/S1877050918320301 
+
+[2] Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, “ImageNet Classification with Deep Convolutional Neural Networks”, Submitted for ImageNet Large Scale Visual Recognition Challenge, September 30, 2012, retrieved from Communications of the ACM, Vol. 6o, No. 6. 
+
+[3] V.L. Blankers, C.E. van den Heuvel, K.Y. Franke, L.G. Vuurpijl, “The ICDAR 2009 signature verification competition,” in Proceedings of the 2009 10th International Conference on Document Analysis and Recognition, pp.1403-1407, 2009.
+
 
 
