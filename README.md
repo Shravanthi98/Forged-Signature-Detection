@@ -1,4 +1,4 @@
-## Forged Signature Detection using Convolutional Neural Networks.
+# Forged Signature Detection using Convolutional Neural Networks.
 
 This project aims at performing signature verification and forgery detection, which is the process of verifying signatures automatically to determine whether a signature is genuine or not. It performs signature verification by using convolutional neural networks (CNNs). The model is based on AlexNet architecture. The signature images are pre-processed in a batch by batch manner and are split into training and testing data. The images have been re-sized and randomly cropped to 227 x 227 which is the default input size for AlexNet. 
 
@@ -24,7 +24,9 @@ There are 4 python files,
 
 **Testing:**
 5. Run the test_network.py file.
-6. Please enter the system path of the saved model.
+6. Please enter the system path of the saved model (.pkl file).
 7. Please enter the path to the downloaded dataset on the system.
 8. 'Confusion_matrix.png' and 'accuracy_test.csv' files are created and the evaluation metrics will be printed on the console.
+
+
 
